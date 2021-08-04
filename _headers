@@ -32,15 +32,6 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/blog/example-title
-  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
-  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
-  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/example-title/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/second-title
   Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -59,6 +50,15 @@
   Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/code-example/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/example-title
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/example-title/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
