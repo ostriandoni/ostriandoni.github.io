@@ -6,7 +6,7 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
   Strict-Transport-Security: max-age=63072000
-/styles.19511c14ac6c446b8f0a.css
+/styles.d48560e6ff0a9b23efe7.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-89fd2ae28bdf06750a71.js
   Cache-Control: public, max-age=31536000, immutable
@@ -22,85 +22,85 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-index-js-1558b42f7d005299e5c2.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-9675be60a81954e69074.js
+/webpack-runtime-3e2f7c8e88d3e0fbd58c.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-8dcecaaefd71e2213eb2.js
   Cache-Control: public, max-age=31536000, immutable
-/app-e6872d9954abca4e527a.js
+/app-000703e846dea19837bd.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/ostriandoni.github.io/blog/example-title
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/blog/example-title/page-data.json>; rel=preload; as=fetch; crossorigin
-/ostriandoni.github.io/blog/second-title
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/blog/second-title/page-data.json>; rel=preload; as=fetch; crossorigin
-/ostriandoni.github.io/blog/code-example
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/blog/code-example/page-data.json>; rel=preload; as=fetch; crossorigin
-/ostriandoni.github.io/404/
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-pages-404-js-4c9fa5790aa9ec081a1b.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
-/ostriandoni.github.io/blog/
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-pages-blog-js-61319fb714abb8ec2258.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
-/ostriandoni.github.io/contact/
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-pages-contact-js-0f668bf20d43c74e418f.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
-/ostriandoni.github.io/
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-pages-index-js-1558b42f7d005299e5c2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/ostriandoni.github.io/404.html
-  Link: </ostriandoni.github.io/webpack-runtime-9675be60a81954e69074.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/app-e6872d9954abca4e527a.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/component---src-pages-404-js-4c9fa5790aa9ec081a1b.js>; rel=preload; as=script
-  Link: </ostriandoni.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </ostriandoni.github.io/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/example-title
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/example-title/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/second-title
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/second-title/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/code-example
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/code-example/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-4c9fa5790aa9ec081a1b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-js-61319fb714abb8ec2258.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/contact/
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-pages-contact-js-0f668bf20d43c74e418f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-1558b42f7d005299e5c2.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  Link: </webpack-runtime-3e2f7c8e88d3e0fbd58c.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-000703e846dea19837bd.js>; rel=preload; as=script
+  Link: </commons-f6320a7fe5a0c847447c.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-4c9fa5790aa9ec081a1b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
