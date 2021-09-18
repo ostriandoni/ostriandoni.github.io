@@ -114,7 +114,7 @@ const IndexPage = () => {
                   src="https://cdn.iconscout.com/icon/free/png-512/portrait-3035905-2556633.png"
                   decoding="async"
                   width="200"
-                  height="300" />
+                  height="200" />
                 <div>Donny in September 2019</div>
               </Td1>
             </tr>
@@ -189,42 +189,45 @@ const IndexPage = () => {
             <tr>
               <Th3>Nov 2010 - Jan 2013</Th3>
               <Td2 colSpan="3">
-                Bee Solution Partners
+              <a href="https://ptbsp.com/">Bee Solution Partners</a>
               </Td2>
             </tr>
             <tr>
               <Th3>Feb 2013 - Jan 2015</Th3>
               <Td2 colSpan="3">
-                Tech Mahindra
+              <a href="https://www.techmahindra.com/">Tech Mahindra</a>
               </Td2>
             </tr>
             <tr>
               <Th3>Jan 2015 - Dec 2017</Th3>
               <Td2 colSpan="3">
-                Inmagine 123RF
+              <a href="https://www.inmagine.com/">Inmagine</a> <a href="https://www.123rf.com/">123RF</a>
               </Td2>
             </tr>
             <tr>
               <Th3>Jan 2018 - Jun 2018</Th3>
               <Td2 colSpan="3">
-                Teleo Labs
+              <a href="https://teleo.co/">Teleo Labs</a>
               </Td2>
             </tr>
             <tr>
               <Th3>Aug 2018 - Dec 2020</Th3>
               <Td2 colSpan="3">
-                Ritase
+              <a href="https://ritase.com/">Ritase</a>
               </Td2>
             </tr>
             <tr>
               <Th3>Jan 2021 - present</Th3>
               <Td2 colSpan="3">
-                Bibit
+              <a href="https://bibit.id/">Bibit</a>
               </Td2>
             </tr>
           </tbody>
         </Infobox>
         <h2>Experience</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Vulputate eu scelerisque felis imperdiet proin fermentum. Imperdiet sed euismod nisi porta lorem mollis aliquam. Magna sit amet purus gravida quis blandit turpis. Id donec ultrices tincidunt arcu non sodales neque. Sodales neque sodales ut etiam sit amet nisl. Amet justo donec enim diam vulputate ut pharetra sit. Lacinia quis vel eros donec. Eget sit amet tellus cras adipiscing enim eu turpis. Eu consequat ac felis donec et odio. Imperdiet massa tincidunt nunc pulvinar sapien et ligula. Tellus mauris a diam maecenas sed enim ut sem viverra. Feugiat in fermentum posuere urna nec.</p>
+        <p>Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Auctor elit sed vulputate mi sit. Auctor elit sed vulputate mi sit amet. Morbi tristique senectus et netus et malesuada. Ac odio tempor orci dapibus ultrices in iaculis nunc sed. Suscipit adipiscing bibendum est ultricies integer quis. Tincidunt augue interdum velit euismod. Eu consequat ac felis donec et odio. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Tellus integer feugiat scelerisque varius morbi enim nunc.</p>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
     </Layout>
