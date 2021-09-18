@@ -59,6 +59,15 @@
   Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/second-title/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/multimedia/assignment-1
+  Link: </webpack-runtime-7697bc71a8d9b9f8f74a.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-8dcecaaefd71e2213eb2.js>; rel=preload; as=script
+  Link: </app-63a32139cb45bb1f65a2.js>; rel=preload; as=script
+  Link: </commons-072e9b5d825e06bdbe38.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-211fd301275fd857341d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/multimedia/assignment-1/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-7697bc71a8d9b9f8f74a.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
