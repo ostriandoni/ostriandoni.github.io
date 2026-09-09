@@ -4,7 +4,7 @@ title = 'Donny Ostrianto'
 theme = 'mana'
 
 [params]
-  description = 'lorem ipsum'
+  description = 'Portfolio'
   heroTitleLine1 = 'DONNY OSTRIANTO'
   heroTitleLine2 = 'Software Engineer'
   footerText = 'Built with Hugo and Mana theme'
@@ -16,7 +16,7 @@ theme = 'mana'
 
   [params.avatar]
     [params.avatar.home]
-      assetPath = "images/profile.webp"
+      assetPath = "images/profile.png"
 
     [params.avatar.about]
-      assetPath = "images/profile.webp"
+      assetPath = "images/profile.png"

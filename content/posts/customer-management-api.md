@@ -35,14 +35,10 @@ accounts and service information.
 
 ## Architecture
 
-```text
-Client
-   |
-   v
-REST API
-   |
-   v
-Quarkus
-   |
-   v
-PostgreSQL
+{{< mermaid >}}
+flowchart TD
+    A[Customer] --> B[Web App]
+    B --> C[Customer Service]
+    B --> D[Billing System]
+    B --> E[Product System]
+{{< /mermaid >}}
