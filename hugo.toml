@@ -1,0 +1,22 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Donny Ostrianto'
+theme = 'mana'
+
+[params]
+  description = 'lorem ipsum'
+  heroTitleLine1 = 'DONNY OSTRIANTO'
+  heroTitleLine2 = 'Software Engineer'
+  footerText = 'Built with Hugo and Mana theme'
+
+  [params.social]
+    github = "https://github.com/ostriandoni"
+    linkedin = "https://www.linkedin.com/in/ostriandoni"
+    email = "donny.ostrianto@gmail.com"
+
+  [params.avatar]
+    [params.avatar.home]
+      assetPath = "images/profile.webp"
+
+    [params.avatar.about]
+      assetPath = "images/profile.webp"
