@@ -2,7 +2,7 @@
 title: "Sporty"
 date: 2026-08-31
 description: "A Node.js command line tool for modifying GPX activity files by adjusting trackpoint timestamps, pace, and heart rate data across custom workout laps."
-image: flowchart.png
+image: architecture.png
 tags:
   - Node.js
   - GPX
@@ -10,9 +10,6 @@ tags:
   - CLI
   - Personal Project
 ---
-
-<!-- ## Overview
-A Node.js command line tool for modifying GPX activity files by adjusting trackpoint timestamps, pace, and heart rate data across custom workout laps. -->
 
 ## Background
 Have you ever set a massive PB on your favorite running segment, only to find out your smartwatch recorded it as an indoor run because GPS failed at the start?
