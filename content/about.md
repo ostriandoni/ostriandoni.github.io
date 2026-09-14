@@ -11,8 +11,7 @@ enterprise application development.
 
 My primary interests include:
 
-- Java
-- Quarkus
+- Node.js
 - REST API
 - PostgreSQL
 - Kafka

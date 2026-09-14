@@ -14,11 +14,11 @@ tags:
 ## Background
 Have you ever set a massive PB on your favorite running segment, only to find out your smartwatch recorded it as an indoor run because GPS failed at the start?
 
-I created sporty to solve this exact frustration. Just grab a previously recorded GPX file of that route, pull up your pace and heart rate splits from your PR, and pass them into the sporty CLI. Boom, your PB is back where it belongs!
+I created sporty to solve this exact frustration. Just grab a previously recorded GPX file of that route, pull up your pace and heart rate splits from your PB, and pass them into the sporty CLI. Boom, your PB is back where it belongs!
 
 ## Tech Stack
 - Node.js
-- GPX (XML-based GPS track data)
+- GPX (XML based GPS track data)
 - JSON (for lap performance parameters)
 
 ## Features
