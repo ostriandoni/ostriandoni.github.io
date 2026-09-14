@@ -6,7 +6,7 @@ image: teleo.png
 tags:
   - Node.js
   - MongoDB
-  - Team Messaging
+  - Messaging App
   - Task Manager
   - Backend
   - Professional Project
