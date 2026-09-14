@@ -1,6 +1,6 @@
 ---
 title: "The Hungry JPEG"
-date: 2016-02-01
+date: 2016-06-01
 description: "A platform that offers a variety of design resources, such as fonts, graphics, and templates, for personal and commercial use."
 image: thehungryjpeg.png
 tags:

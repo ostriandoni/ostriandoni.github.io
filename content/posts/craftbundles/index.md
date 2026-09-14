@@ -1,6 +1,6 @@
 ---
 title: "Craft Bundles"
-date: 2016-06-01
+date: 2017-01-02
 description: "An online marketplace that offers a wide range of digital design assets, including fonts, graphics, templates, and mockups, for use in crafting and design projects."
 image: craftbundles.png
 tags:
