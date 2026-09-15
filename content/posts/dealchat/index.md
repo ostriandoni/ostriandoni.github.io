@@ -32,6 +32,7 @@ tags:
 
 ## Architecture
 {{< figure src="architecture.png" alt="Architecture Diagram" width="100%" >}}
+_Simplified architecture based on my responsibilities; proprietary implementation details omitted._
 
 ## Project Scope & Key Features
 {{< figure src="usecase.png" alt="Use Case Diagram" width="100%" >}}

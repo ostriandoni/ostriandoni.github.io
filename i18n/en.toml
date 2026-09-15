@@ -31,7 +31,7 @@ home = "Home"
 recentPosts = "Featured Projects"
 
 # List & filters
-posts = "Posts"
+posts = "Projects"
 filters = "Filters"
 searchTags = "Search for tags..."
 tagsLabel = "Tags"
@@ -41,8 +41,8 @@ clearFilters = "Clear Filters"
 
 # Pagination
 pageOf = "Page %s of %s"
-postSingular = "post"
-postPlural = "posts"
+postSingular = "project"
+postPlural = "projects"
 pageSingular = "page"
 pagePlural = "pages"
 postsOnThisPage = "on this page"
@@ -60,7 +60,7 @@ readMore = "Read more"
 archive = "Archive"
 
 # Single post
-relatedPosts = "Related Posts"
+relatedPosts = "Related Projects"
 tags = "Tags"
 navPrev = "Previous"
 navNext = "Next"
