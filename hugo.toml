@@ -20,3 +20,19 @@ theme = 'mana'
 
     [params.avatar.about]
       assetPath = "images/profile.png"
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Projects"
+    pageRef = "/posts"
+    weight = 20
+
+  # [[menus.main]]
+  #   name = "About"
+  #   pageRef = "/about"
+  #   weight = 30
