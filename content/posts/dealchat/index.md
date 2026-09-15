@@ -36,3 +36,4 @@ _Simplified architecture based on my responsibilities; proprietary implementatio
 
 ## Project Scope & Key Features
 {{< figure src="usecase.png" alt="Use Case Diagram" width="100%" >}}
+_Simplified use case based on my responsibilities; proprietary implementation details omitted._
