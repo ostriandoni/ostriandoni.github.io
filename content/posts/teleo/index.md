@@ -18,10 +18,10 @@ tags:
 - **Period:** Jan 2018 – Jun 2018
 
 ## Key Contributions
-- Implemented Stripe payment integrations, establishing automated subscription billing workflows that directly unlocked global revenue generation and processed dozens of secure transactions.
-- Setting up a GitHub and Teleo integration to automatically broadcast repository activity such as pushes, pull requests, reviews, and merges directly into a Teleo channel.
-- Implemented granular, real-time channel notifications utilizing Ably WebSockets to ensure targeted message delivery.
-- Developed an interactive message reaction system, allowing users to express sentiments and respond to individual messages using contextual emojis.
+- Implemented Stripe payment integrations, establishing automated subscription billing workflows that directly unlocked global revenue generation and processed dozens of secure transactions
+- Setting up a GitHub and Teleo integration to automatically broadcast repository activity such as pushes, pull requests, reviews, and merges directly into a Teleo channel
+- Implemented granular, real-time channel notifications utilizing Ably WebSockets to ensure targeted message delivery
+- Developed an interactive message reaction system, allowing users to express sentiments and respond to individual messages using contextual emojis
 
 ## Tech Stack
 - Node.js

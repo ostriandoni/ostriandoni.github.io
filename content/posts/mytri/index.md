@@ -33,7 +33,7 @@ tags:
 ## Project Scope & Key Features
 - User authentication and account management
 - Subscriber information
-- Check remaining internet quota, credit balance, validity period, and usage history.
-- Purchase internet data, call, and SMS packages.
-- Top up credit or redeem physical Tri vouchers.
-- Access assistance from the virtual assistant, Triva.
+- Check remaining internet quota, credit balance, validity period, and usage history
+- Purchase internet data, call, and SMS packages
+- Top up credit or redeem physical Tri vouchers
+- Access assistance from the virtual assistant, Triva

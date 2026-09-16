@@ -18,9 +18,9 @@ tags:
 - **Period:** Jan 2015 – Dec 2017
 
 ## Key Contributions
-- Diagnosed and resolved critical edge case defects across core application modules, improving overall system stability and user experience.
-- Investigated production error logs to identify root causes, delivering targeted hotfixes to maintain high availability.
-- Enhanced exception and edge case handling across existing API endpoints to ensure graceful failures and cleaner application logs.
+- Diagnosed and resolved critical edge case defects across core application modules, improving overall system stability and user experience
+- Investigated production error logs to identify root causes, delivering targeted hotfixes to maintain high availability
+- Enhanced exception and edge case handling across existing API endpoints to ensure graceful failures and cleaner application logs
 
 ## Tech Stack
 - PHP

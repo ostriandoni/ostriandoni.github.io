@@ -18,9 +18,9 @@ tags:
 - **Period:** Jan 2015 – Dec 2017
 
 ## Key Contributions
-- Co-architected and built StockUnlimited from scratch as a core founding engineer, scaling the platform to reliably host and deliver millions of stock image and audio assets globally.
-- Implemented Stripe payment integrations, establishing automated subscription billing workflows that directly unlocked global revenue generation and processed thousands of secure transactions.
-- Designed a custom back office administration portal featuring automated reporting, voucher engines, and metadata visibility controls, reducing internal operations overhead by streamlining daily asset catalog updates.
+- Co-architected and built StockUnlimited from scratch as a core founding engineer, scaling the platform to reliably host and deliver millions of stock image and audio assets globally
+- Implemented Stripe payment integrations, establishing automated subscription billing workflows that directly unlocked global revenue generation and processed thousands of secure transactions
+- Designed a custom back office administration portal featuring automated reporting, voucher engines, and metadata visibility controls, reducing internal operations overhead by streamlining daily asset catalog updates
 
 ## Tech Stack
 - PHP

@@ -18,8 +18,8 @@ tags:
 - **Period:** Jan 2015 – Dec 2017
 
 ## Key Contributions
-- Delivered incremental feature enhancements and UI/UX updates based on user feedback and changing business requirements.
-- Streamlined existing business logic and data validation rules, reducing unnecessary queries and improving response times for edge cases.
+- Delivered incremental feature enhancements and UI/UX updates based on user feedback and changing business requirements
+- Modernized business rule engines and validation layers for scalability, reducing unnecessary queries and improving response times for edge cases
 
 ## Tech Stack
 - PHP

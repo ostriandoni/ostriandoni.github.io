@@ -1,7 +1,7 @@
 ---
 title: "Ritase"
 date: 2018-08-01
-description: "An open digital logistics ecosystem that connects enterprise shippers with trucking companies and drivers on a single platform"
+description: "An open digital logistics ecosystem that connects enterprise shippers with trucking companies and drivers on a single platform."
 image: ritase.png
 tags:
   - Node.js
@@ -18,9 +18,9 @@ tags:
 - **Period:** Aug 2018 – Dec 2020
 
 ## Key Contributions
-- Architected transformation and connectivity solutions using third-party APIs, including BCA, Xfers, LinkAja, and Billfazz, to increase product functionality and enhance the user experience.
-- Developed web services and APIs as the foundation for a truck logistics service provider, optimizing connections between shippers and transporters to improve business operations.
-- Analyzed business and functional specifications to deliver SaaS and marketplace solutions for both B2B and B2C business models, addressing evolving customer needs and enhancing satisfaction.
+- Architected transformation and connectivity solutions using third-party APIs, including BCA, Xfers, LinkAja, and Billfazz, to increase product functionality and enhance the user experience
+- Developed web services and APIs as the foundation for a truck logistics service provider, optimizing connections between shippers and transporters to improve business operations
+- Analyzed business and functional specifications to deliver SaaS and marketplace solutions for both B2B and B2C business models, addressing evolving customer needs and enhancing satisfaction
 
 ## Tech Stack
 - Node.js
