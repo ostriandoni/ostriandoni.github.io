@@ -6,18 +6,18 @@ title: "About Me"
 
 Hi, I'm Donny.
 
-I'm a software engineer focused on backend development and
-enterprise application development.
+ I'm a software engineer and system analyst with 15+ years of experience spanning enterprise and startup environments across finance, logistics, creative, and telecommunications. My background covers system analysis, API design, cloud infrastructure, testing, and observability, along with proven leadership in both Agile and Waterfall delivery, mentoring, and code review.
 
-My primary interests include:
+## Skills
 
-- Node.js
-- REST API
-- PostgreSQL
-- Kafka
-- Docker
-- Backend architecture
-- Distributed systems
+- Programming Languages: JavaScript, TypeScript, PHP, Java, Python
+- Databases: MySQL, Oracle, PostgreSQL, MongoDB, Redis, DynamoDB
+- Cloud & Infrastructure: AWS, Heroku
+- System Design: RESTful API architecture, UML, business requirements analysis
+- API Testing & Performance: Bruno, Postman, JMeter
+- Monitoring: CloudWatch, Sentry, New Relic, Grafana
+- GenAI & LLM Tools: Gemini, ChatGPT, DeepSeek, Claude
+- Project Management: Agile, Scrum, Waterfall, Jira, Redmine, Trello
+- Other: Code review, mentoring, technical documentation
 
-I enjoy building reliable backend services and learning how
-different components work together in modern software systems.
+I enjoy building reliable backend services and learning how different components work together in modern software systems.

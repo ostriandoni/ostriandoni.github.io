@@ -18,12 +18,12 @@ tags:
 - **Period:** Nov 2010 – Jan 2013
 
 ## Key Contributions
-- Created detailed Requirement and Program Specification Documents based on user requirements to ensure clear communication and alignment with project goals.
-- Created Test Scenarios along with associated Test Data based on the Test Plan, Requirement, and Specification Documents to ensure product quality.
-- Developed, tested, and delivered applications within designated timelines and deliverable milestones to meet project goals.
-- Fixed identified bugs and defects during the testing phase, including Program Testing, Integration Functional Test, Business Component Test, and User Acceptance Test, to ensure product quality.
-- Ensured accuracy and completeness of technical documentation to facilitate project success.
-- Provided enhancement, troubleshooting, and maintenance support of existing/live applications to ensure optimal performance and customer satisfaction.
+- Created detailed Requirement and Program Specification Documents based on user requirements to ensure clear communication and alignment with project goals
+- Created Test Scenarios along with associated Test Data based on the Test Plan, Requirement, and Specification Documents to ensure product quality
+- Developed, tested, and delivered applications within designated timelines and deliverable milestones to meet project goals
+- Fixed identified bugs and defects during the testing phase, including Program Testing, Integration Functional Test, Business Component Test, and User Acceptance Test, to ensure product quality
+- Ensured accuracy and completeness of technical documentation to facilitate project success
+- Provided enhancement, troubleshooting, and maintenance support of existing/live applications to ensure optimal performance and customer satisfaction
 
 ## Tech Stack
 - Java
