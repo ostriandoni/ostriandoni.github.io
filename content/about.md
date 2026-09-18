@@ -10,13 +10,14 @@ Hi, I'm Donny.
 
 ## Skills
 
-- Programming Languages: JavaScript, TypeScript, PHP, Java, Python
-- Databases: MySQL, Oracle, PostgreSQL, MongoDB, Redis, DynamoDB
+- Programming Languages: JavaScript, TypeScript, PHP, Java, Python, C#
+- Runtimes/Frameworks: Node.js, Express.js, Serverless Framework, Koa, Symfony, Hibernate, Apache Struts, Flask, ASP.NET
+- Databases: MySQL, Oracle, PostgreSQL, Db2, MariaDB, MongoDB, Redis, DynamoDB
 - Cloud & Infrastructure: AWS, Heroku
 - System Design: RESTful API architecture, UML, business requirements analysis
 - API Testing & Performance: Bruno, Postman, JMeter
 - Monitoring: CloudWatch, Sentry, New Relic, Grafana
-- GenAI & LLM Tools: Gemini, ChatGPT, DeepSeek, Claude
+- GenAI & LLM Tools: Claude, Gemini, ChatGPT
 - Project Management: Agile, Scrum, Waterfall, Jira, Redmine, Trello
 - Other: Code review, mentoring, technical documentation
 

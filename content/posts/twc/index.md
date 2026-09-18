@@ -19,7 +19,7 @@ tags:
 
 ## Key Contributions
 - Developed a unified system allowing users to select and purchase tickets across multiple distinct cultural heritage sites
-- Created a dedicated Travel Agent portal interface to streamline bulk ticket purchasing, partner management, and group bookings for commercial travel agencies
+- Created a dedicated Travel Agent portal interface to facilitate bulk ticket purchasing, partner management, and group bookings for commercial travel agencies
 
 ## Tech Stack
 - .NET Framework

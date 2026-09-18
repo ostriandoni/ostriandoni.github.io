@@ -35,6 +35,6 @@ tags:
 - Implemented a KYC process for handling dormant accounts in accordance with regulatory requirements and guidance from Indonesia's Financial Intelligence Unit (PPATK)
 - Implemented a dashboard to support monitoring and management of Politically Exposed Persons (PEP), providing visibility into relevant customer risk information
 - Enhanced and revamped the Risk Management System to address findings and requirements identified through regulatory review by Indonesia's Financial Services Authority (OJK)
-- Implemented system integration between Robo SLIK (Sistem Layanan Informasi Keuangan) and BNC Single Sign On (SSO) to streamline authentication and access to credit information related services
+- Implemented system integration between Robo SLIK (Sistem Layanan Informasi Keuangan) and BNC Single Sign On to simplify authentication and access to credit information related services
 - Reviewed and migrated CLIK (CRIF Lembaga Informasi Keuangan) response data mapping for the Neoloan product; enabling faster querying, easier reporting, and improved schema readability
 - Revamped the legacy data pipeline with a new pipeline optimized for scheduler based data processing and query performance. The improvement reduced the time required to prepare daily collection data, ensuring customer records were available earlier each morning for collection agents to perform timely outreach
