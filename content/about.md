@@ -15,7 +15,8 @@ Hi, I'm Donny.
 - Databases: MySQL, Oracle, PostgreSQL, Db2, MariaDB, MongoDB, Redis, DynamoDB
 - Cloud & Infrastructure: AWS, Heroku
 - System Design: RESTful API architecture, UML, business requirements analysis
-- API Testing & Performance: Bruno, Postman, JMeter
+- API & Automated Testing: Playwright, Bruno, Postman
+- Load Testing: Apache JMeter
 - Monitoring: CloudWatch, Sentry, New Relic, Grafana
 - GenAI & LLM Tools: Claude, Gemini, ChatGPT
 - Project Management: Agile, Scrum, Waterfall, Jira, Redmine, Trello

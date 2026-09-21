@@ -4,7 +4,7 @@ date: 2026-06-01
 description: "An integrated inventory management platform designed to manage material tracking, requests, deliveries, returns, and reporting a multi tier telecom supply chain involving providers, MSPs, and their vendors."
 image: ims.png
 tags:
-  - PHP
+  - Playwright
   - MariaDB
   - Telecom
   - Logistics
@@ -21,7 +21,8 @@ tags:
 - Support User Acceptance Testing (UAT) with end users and produced UAT documentation
 - Analyzed production issues to identify root causes and prevent recurrence, documenting findings in Root Cause Analysis reports
 
-## Tech Stack
+## Tech 
+- Playwright
 - PHP
 - Laravel
 - MariaDB

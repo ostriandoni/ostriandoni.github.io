@@ -4,6 +4,7 @@ date: 2026-04-01
 description: "A 360 degree Customer Management platform providing unified subscriber data visibility, subscription management, account lifecycle control, and billing profile access."
 image: crm.png
 tags:
+  - Playwright
   - PostgreSQL
   - Oracle
   - Telecom
@@ -24,6 +25,7 @@ tags:
 - Support User Acceptance Testing (UAT) with end users and produced UAT documentation
 
 ## Tech Stack
+- Playwright
 - PostgreSQL
 - Oracle
 - Redis
