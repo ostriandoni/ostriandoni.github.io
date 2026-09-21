@@ -34,6 +34,7 @@ tags:
   - JavaScript
   - TypeScript
 - Express.js
+- Jest
 - MySQL
 - Redis
 - AWS

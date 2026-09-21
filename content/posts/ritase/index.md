@@ -29,6 +29,8 @@ tags:
   - JavaScript
   - TypeScript
 - Serverless Framework
+- Mocha
+- Chai
 - MySQL
 - PostgreSQL
 - Redis

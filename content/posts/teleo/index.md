@@ -26,6 +26,8 @@ tags:
 ## Tech Stack
 - Node.js
 - Koa.js
+- Mocha
+- Chai
 - MongoDB
 - Redis
 - AWS
