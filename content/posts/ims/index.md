@@ -4,6 +4,7 @@ date: 2026-06-01
 description: "An integrated inventory management platform designed to manage material tracking, requests, deliveries, returns, and reporting a multi tier telecom supply chain involving providers, MSPs, and their vendors."
 image: ims.png
 tags:
+  - Google Apps Script
   - Playwright
   - MariaDB
   - Telecom
@@ -20,11 +21,12 @@ tags:
 - Created Test Case Scenarios and conducted System Integration Testing (SIT) to validate end to end functionality across integrated systems
 - Support User Acceptance Testing (UAT) with end users and produced UAT documentation
 - Analyzed production issues to identify root causes and prevent recurrence, documenting findings in Root Cause Analysis reports
+- Developed an automated reporting solution by integrating Bridge Reporting with Google Apps Script
 
 ## Tech 
+- Google Apps Script
 - Playwright
-- PHP
-- Laravel
+- [k6](https://k6.io)
 - MariaDB
 - Redis
 - AWS
@@ -42,3 +44,6 @@ tags:
   - Implement Material Request Cancellation
 - Return Management
   - Material Return Enhancement
+- Reports
+  - Weekly Material Usage Report
+  - Monthly Material Request Report
