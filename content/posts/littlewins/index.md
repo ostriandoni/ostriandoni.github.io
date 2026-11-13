@@ -4,12 +4,14 @@ date: 2026-11-03
 description: "A gamified, local-first educational web application for elementary school children featuring adaptive multi-subject quizzes, a star-point economy, and parent-managed reward coupons."
 image: og-image.jpeg
 tags:
+  - Node.js
   - JavaScript
   - Tailwind CSS
   - Supabase
-  - Node.js
   - Vercel
+  - PWA
   - EdTech
+  - Personal Project
 ---
 
 ## Background
